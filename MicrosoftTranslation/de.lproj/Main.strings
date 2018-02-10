@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "Translate"; ObjectID = "3gE-ea-MWb"; */
+"3gE-ea-MWb.normalTitle" = "Übersetzen";
+
+/* Class = "UIButton"; normalTitle = "Source:"; ObjectID = "7Q9-fc-3sj"; */
+"7Q9-fc-3sj.normalTitle" = "Quelle:";
+
+/* Class = "UILabel"; text = "Translation:"; ObjectID = "Ua2-Bl-oXL"; */
+"Ua2-Bl-oXL.text" = "Übersetzung:";
+
+/* Class = "UIButton"; normalTitle = "Target:"; ObjectID = "Uti-oo-hJW"; */
+"Uti-oo-hJW.normalTitle" = "Ziel:";
+
+/* Class = "UISegmentedControl"; Xc1-r4-Iwy.segmentTitles[0] = "English"; ObjectID = "Xc1-r4-Iwy"; */
+"Xc1-r4-Iwy.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; Xc1-r4-Iwy.segmentTitles[1] = "French"; ObjectID = "Xc1-r4-Iwy"; */
+"Xc1-r4-Iwy.segmentTitles[1]" = "French";
+
+/* Class = "UISegmentedControl"; Xc1-r4-Iwy.segmentTitles[2] = "German"; ObjectID = "Xc1-r4-Iwy"; */
+"Xc1-r4-Iwy.segmentTitles[2]" = "German";
+
+/* Class = "UILabel"; text = "Source:"; ObjectID = "eFL-BU-YNe"; */
+"eFL-BU-YNe.text" = "Quelle:";
+
+/* Class = "UISegmentedControl"; fSh-GJ-VkF.segmentTitles[0] = "English"; ObjectID = "fSh-GJ-VkF"; */
+"fSh-GJ-VkF.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; fSh-GJ-VkF.segmentTitles[1] = "French"; ObjectID = "fSh-GJ-VkF"; */
+"fSh-GJ-VkF.segmentTitles[1]" = "French";
+
+/* Class = "UISegmentedControl"; fSh-GJ-VkF.segmentTitles[2] = "German"; ObjectID = "fSh-GJ-VkF"; */
+"fSh-GJ-VkF.segmentTitles[2]" = "German";
+
+/* Class = "UIButton"; normalTitle = "Clear"; ObjectID = "nWh-sN-DLu"; */
+"nWh-sN-DLu.normalTitle" = "klar";
